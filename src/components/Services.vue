@@ -7,13 +7,13 @@
       </div>
       <div class="right-container">
         <div class="title">
-          <span>开发指南</span>
+          <span>开发指南1</span>
         </div>
         <div class="remark">
-          <span>学习文档知识</span>
+          <span>学习文档知识2</span>
         </div>
         <div class="description">
-          <span>这是一个很好的知识</span>
+          <span>这是一个很好的知识3</span>
         </div>
       </div>
     </div>
